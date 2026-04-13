@@ -1,8 +1,5 @@
 # NeetCode Solutions — @UnstaBleSos
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-up7atf4j`
-
----
 
 ## What is this?
 
